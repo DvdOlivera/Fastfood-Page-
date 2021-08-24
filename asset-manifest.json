@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Fastfood-Page-/static/css/main.034143fd.chunk.css",
+    "main.js": "/Fastfood-Page-/static/js/main.88b8572d.chunk.js",
+    "main.js.map": "/Fastfood-Page-/static/js/main.88b8572d.chunk.js.map",
+    "runtime-main.js": "/Fastfood-Page-/static/js/runtime-main.c5be3836.js",
+    "runtime-main.js.map": "/Fastfood-Page-/static/js/runtime-main.c5be3836.js.map",
+    "static/js/2.64bedef6.chunk.js": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js",
+    "static/js/2.64bedef6.chunk.js.map": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js.map",
+    "static/js/3.77b5fcca.chunk.js": "/Fastfood-Page-/static/js/3.77b5fcca.chunk.js",
+    "static/js/3.77b5fcca.chunk.js.map": "/Fastfood-Page-/static/js/3.77b5fcca.chunk.js.map",
+    "index.html": "/Fastfood-Page-/index.html",
+    "static/css/main.034143fd.chunk.css.map": "/Fastfood-Page-/static/css/main.034143fd.chunk.css.map",
+    "static/js/2.64bedef6.chunk.js.LICENSE.txt": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js.LICENSE.txt",
+    "static/media/apple.11156c0c.png": "/Fastfood-Page-/static/media/apple.11156c0c.png",
+    "static/media/faizan-saeed-mwYTNZO0WhA-unsplash.d48ccf4c.jpg": "/Fastfood-Page-/static/media/faizan-saeed-mwYTNZO0WhA-unsplash.d48ccf4c.jpg",
+    "static/media/google.68b0b4ca.png": "/Fastfood-Page-/static/media/google.68b0b4ca.png",
+    "static/media/kelvin-t-AcA8moIiD3g-unsplash.06997569.jpg": "/Fastfood-Page-/static/media/kelvin-t-AcA8moIiD3g-unsplash.06997569.jpg",
+    "static/media/lynda-hinton-77RJFb0IXnQ-unsplash.3106e6db.jpg": "/Fastfood-Page-/static/media/lynda-hinton-77RJFb0IXnQ-unsplash.3106e6db.jpg",
+    "static/media/pexels-cats-coming-406152.2a45e632.jpg": "/Fastfood-Page-/static/media/pexels-cats-coming-406152.2a45e632.jpg",
+    "static/media/pexels-engin-akyurt-2619967.59ad44d8.jpg": "/Fastfood-Page-/static/media/pexels-engin-akyurt-2619967.59ad44d8.jpg",
+    "static/media/pexels-eren-li-7241482.e1e14aff.jpg": "/Fastfood-Page-/static/media/pexels-eren-li-7241482.e1e14aff.jpg",
+    "static/media/pexels-pablo-macedo-845811.132493b1.jpg": "/Fastfood-Page-/static/media/pexels-pablo-macedo-845811.132493b1.jpg",
+    "static/media/pexels-ready-made-4021926.cfcfaad4.jpg": "/Fastfood-Page-/static/media/pexels-ready-made-4021926.cfcfaad4.jpg",
+    "static/media/index.css": "/Fastfood-Page-/static/media/pexels-samfotograffo-3052362.64159400.jpg",
+    "static/media/pexels-samfotograffo-3052366.2471e16f.jpg": "/Fastfood-Page-/static/media/pexels-samfotograffo-3052366.2471e16f.jpg",
+    "static/media/pexels-valeria-boltneva-580613.b1ad7e91.jpg": "/Fastfood-Page-/static/media/pexels-valeria-boltneva-580613.b1ad7e91.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5be3836.js",
+    "static/js/2.64bedef6.chunk.js",
+    "static/css/main.034143fd.chunk.css",
+    "static/js/main.88b8572d.chunk.js"
+  ]
+}
