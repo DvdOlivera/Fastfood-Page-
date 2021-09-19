@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/Fastfood-Page-/static/css/main.d98b44a4.chunk.css",
-    "main.js": "/Fastfood-Page-/static/js/main.b282a03e.chunk.js",
-    "main.js.map": "/Fastfood-Page-/static/js/main.b282a03e.chunk.js.map",
-    "runtime-main.js": "/Fastfood-Page-/static/js/runtime-main.c5be3836.js",
-    "runtime-main.js.map": "/Fastfood-Page-/static/js/runtime-main.c5be3836.js.map",
-    "static/js/2.64bedef6.chunk.js": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js",
-    "static/js/2.64bedef6.chunk.js.map": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js.map",
-    "static/js/3.77b5fcca.chunk.js": "/Fastfood-Page-/static/js/3.77b5fcca.chunk.js",
-    "static/js/3.77b5fcca.chunk.js.map": "/Fastfood-Page-/static/js/3.77b5fcca.chunk.js.map",
+    "main.css": "/Fastfood-Page-/static/css/main.f9dbbdc6.chunk.css",
+    "main.js": "/Fastfood-Page-/static/js/main.1296ae29.chunk.js",
+    "main.js.map": "/Fastfood-Page-/static/js/main.1296ae29.chunk.js.map",
+    "runtime-main.js": "/Fastfood-Page-/static/js/runtime-main.39e7312e.js",
+    "runtime-main.js.map": "/Fastfood-Page-/static/js/runtime-main.39e7312e.js.map",
+    "static/js/2.305315e2.chunk.js": "/Fastfood-Page-/static/js/2.305315e2.chunk.js",
+    "static/js/2.305315e2.chunk.js.map": "/Fastfood-Page-/static/js/2.305315e2.chunk.js.map",
+    "static/js/3.dfaf8cee.chunk.js": "/Fastfood-Page-/static/js/3.dfaf8cee.chunk.js",
+    "static/js/3.dfaf8cee.chunk.js.map": "/Fastfood-Page-/static/js/3.dfaf8cee.chunk.js.map",
     "index.html": "/Fastfood-Page-/index.html",
-    "static/css/main.d98b44a4.chunk.css.map": "/Fastfood-Page-/static/css/main.d98b44a4.chunk.css.map",
-    "static/js/2.64bedef6.chunk.js.LICENSE.txt": "/Fastfood-Page-/static/js/2.64bedef6.chunk.js.LICENSE.txt",
+    "static/css/main.f9dbbdc6.chunk.css.map": "/Fastfood-Page-/static/css/main.f9dbbdc6.chunk.css.map",
+    "static/js/2.305315e2.chunk.js.LICENSE.txt": "/Fastfood-Page-/static/js/2.305315e2.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Fastfood-Page-/static/media/pexels-valeria-boltneva-580613.b1ad7e91.jpg",
     "static/media/apple.11156c0c.png": "/Fastfood-Page-/static/media/apple.11156c0c.png",
-    "static/media/faizan-saeed-mwYTNZO0WhA-unsplash.d48ccf4c.jpg": "/Fastfood-Page-/static/media/faizan-saeed-mwYTNZO0WhA-unsplash.d48ccf4c.jpg",
     "static/media/google.68b0b4ca.png": "/Fastfood-Page-/static/media/google.68b0b4ca.png",
     "static/media/kelvin-t-AcA8moIiD3g-unsplash.06997569.jpg": "/Fastfood-Page-/static/media/kelvin-t-AcA8moIiD3g-unsplash.06997569.jpg",
     "static/media/lynda-hinton-77RJFb0IXnQ-unsplash.3106e6db.jpg": "/Fastfood-Page-/static/media/lynda-hinton-77RJFb0IXnQ-unsplash.3106e6db.jpg",
@@ -22,13 +21,12 @@
     "static/media/pexels-engin-akyurt-2619967.59ad44d8.jpg": "/Fastfood-Page-/static/media/pexels-engin-akyurt-2619967.59ad44d8.jpg",
     "static/media/pexels-pablo-macedo-845811.132493b1.jpg": "/Fastfood-Page-/static/media/pexels-pablo-macedo-845811.132493b1.jpg",
     "static/media/pexels-ready-made-4021926.cfcfaad4.jpg": "/Fastfood-Page-/static/media/pexels-ready-made-4021926.cfcfaad4.jpg",
-    "static/media/index.css": "/Fastfood-Page-/static/media/pexels-samfotograffo-3052362.64159400.jpg",
     "static/media/pexels-samfotograffo-3052366.2471e16f.jpg": "/Fastfood-Page-/static/media/pexels-samfotograffo-3052366.2471e16f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5be3836.js",
-    "static/js/2.64bedef6.chunk.js",
-    "static/css/main.d98b44a4.chunk.css",
-    "static/js/main.b282a03e.chunk.js"
+    "static/js/runtime-main.39e7312e.js",
+    "static/js/2.305315e2.chunk.js",
+    "static/css/main.f9dbbdc6.chunk.css",
+    "static/js/main.1296ae29.chunk.js"
   ]
 }
